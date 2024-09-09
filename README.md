@@ -1,0 +1,3 @@
+# RustamCourseGo
+
+иструкция к кодам
